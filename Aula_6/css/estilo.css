@@ -1,0 +1,33 @@
+#total{
+width: 960px;
+height: auto;
+margin: auto;
+
+}
+header#topo{
+    width: 960px;
+    height: 80px;
+    float: left;
+
+}
+
+figure#logo{
+
+    background-color: red; /* Define o fundo vermelho */
+    padding: 10px;
+    
+
+}
+div#banner{
+    width: 960px;
+    height: 300px;
+    float: left;
+    background-image: url('..img/Banner2.jpg');
+
+
+}
+
+
+
+
+
